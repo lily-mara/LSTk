@@ -1,0 +1,8 @@
+[package]
+name = "lsdj-f"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eyre = "0.6.12"
+lsdj = { path = "/Users/lily/projects/github.com/stijnfrishert/lsdj-rs/lsdj" }
